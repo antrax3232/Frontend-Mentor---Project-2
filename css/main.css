@@ -353,6 +353,7 @@ section {
 }
 
 .social-media i {
+  cursor: pointer;
   font-size: 3rem;
   padding: 0 2rem;
   transition: color 0.3s;
