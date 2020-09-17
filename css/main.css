@@ -48,10 +48,10 @@
 @keyframes scrollA {
   from {
     opacity: 1;
-    bottom: -2%;
+    bottom: 8.5%;
   }
   to {
-    bottom: -4%;
+    bottom: 5%;
     opacity: 0.1;
   }
 }
